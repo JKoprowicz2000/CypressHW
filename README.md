@@ -1,4 +1,8 @@
 # CypressHW
+    Przepisz pracę domową z poprzedniego modułu z wykorzystaniem wzorca Page object pattern.
+    Każda strona powinna mieć swój własny plik w folderze pages a. Dla strony logowania musi istnieć plik Login.js. b. Dla strony głównej powinien istnieć plik HomePage.js.
+
+
 Napisz 2 testy, które będą spełniały poniższe wymagania.
 
 Stwórz polecenie login, które odnajdzie pole mail i hasło, wpisze tam dane i kliknie na przycisk Log In.
