@@ -1,4 +1,15 @@
 # CypressHW
+  Wykorzystaj publiczne API - https://httpbin.org/#/
+
+Napisz serię testów dla tego API. Powinno ich być co najmniej 10 i powinny być w nich uwzględnione następujące aspekty:
+
+    wykorzystanie różnych metod HTTP (GET/POST/etc)
+    wysyłanie i sprawdzanie nagłówków, zarówno standardowych (User-Agent), jak i niestandardowych
+    wysyłanie parametrów zapytania, w tym losowych
+    sprawdzanie treści odpowiedzi
+    sprawdzanie czasu trwania wniosku
+
+
     Przepisz pracę domową z poprzedniego modułu z wykorzystaniem wzorca Page object pattern.
     Każda strona powinna mieć swój własny plik w folderze pages a. Dla strony logowania musi istnieć plik Login.js. b. Dla strony głównej powinien istnieć plik HomePage.js.
 
